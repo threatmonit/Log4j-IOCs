@@ -1,7 +1,7 @@
-# Log4j-IOCs
+# Log4j (log4shell) CVE-2021-44228 Public IOCs list
+
 Public IOCs about log4j CVE-2021-44228
 
-# Log4j (log4shell) CVE-2021-44228 Public IOCs list
 
 ## IP List
 ```sh
